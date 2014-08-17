@@ -1,0 +1,33 @@
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\bin\Debug\Browser 2.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\bin\Debug\Browser 2.pdb
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\bin\Debug\Browser 2.xml
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\obj\x86\Debug\Browser_2.Form1.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\obj\x86\Debug\Browser_2.Resources.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\obj\x86\Debug\Browser 2.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\obj\x86\Debug\Browser 2.xml
+C:\Users\Dan\AppData\Local\Temporary Projects\Browser 2\obj\x86\Debug\Browser 2.pdb
+C:\Users\Dan\Desktop\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.exe
+C:\Users\Dan\Desktop\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.xml
+C:\Users\Dan\Desktop\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.pdb
+C:\Users\Dan\Desktop\Browser 2\Browser 2\Browser 2\bin\Debug\Browser 2.exe
+C:\Users\Dan\Desktop\Browser 2\Browser 2\Browser 2\bin\Debug\Browser 2.pdb
+C:\Users\Dan\Desktop\Browser 2\Browser 2\Browser 2\bin\Debug\Browser 2.xml
+C:\Users\Dan\Desktop\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser_2.Form1.resources
+C:\Users\Dan\Desktop\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser_2.Resources.resources
+C:\Users\Dan\Desktop\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\bin\Debug\Browser 2.exe.manifest
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\bin\Debug\Browser 2.application
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\bin\Debug\Browser 2.exe
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\bin\Debug\Browser 2.pdb
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\bin\Debug\Browser 2.xml
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser_2.Form1.resources
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser_2.Resources.resources
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.exe.manifest
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.application
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.exe
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.xml
+C:\Users\Dan\Documents\Browser 2\Browser 2\Browser 2\obj\x86\Debug\Browser 2.pdb

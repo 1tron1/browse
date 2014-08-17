@@ -1,0 +1,10 @@
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\bin\Debug\All view.exe.config
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\bin\Debug\All view.exe
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\bin\Debug\All view.pdb
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\bin\Debug\All view.xml
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\obj\Debug\All_view.Form1.resources
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\obj\Debug\All_view.Resources.resources
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\obj\Debug\All view.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\obj\Debug\All view.exe
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\obj\Debug\All view.xml
+C:\Users\Dan\Documents\Browser 2\Browser 2\All view\All view\obj\Debug\All view.pdb
